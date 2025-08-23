@@ -1,2 +1,5 @@
 yk what's the best food tho?
 pizza
+
+if im on branch newb, i can't merge into main
+i must be on main to merge, newb into main
